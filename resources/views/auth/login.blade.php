@@ -124,7 +124,7 @@
                             type="email"
                             name="email"
                             value="{{ old('email') }}"
-                            class="w-full pl-10 pr-4 py-2.5 sm:py-3 border border-black rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition text-sm sm:text-base"
+                            class="text-white w-full pl-10 pr-4 py-2.5 sm:py-3 border border-black rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition text-sm sm:text-base"
                             placeholder="Masukkan email"
                             required>
                     </div>
@@ -141,7 +141,7 @@
                         <input
                             type="password"
                             name="password"
-                            class="w-full pl-10 pr-4 py-2.5 sm:py-3 border border-black rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition text-sm sm:text-base"
+                            class="text-white w-full pl-10 pr-4 py-2.5 sm:py-3 border border-black rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition text-sm sm:text-base"
                             placeholder="Masukkan password"
                             required>
                     </div>
@@ -158,7 +158,7 @@
             <div class="fixed bottom-0 left-0 right-0 text-center text-white text-xs sm:text-sm opacity-70 pb-4 pointer-events-none">
                 <p>&copy; 2026 PT Rastek Inovasi Digital</p>
             </div>
-            
+
             <div class="mt-6 sm:mt-8 p-4 sm:p-5 bg-white backdrop-blur-sm rounded-lg border border-white/30 shadow-lg">
                 <p class="font-semibold text-gray-800 mb-2 sm:mb-3 text-xs sm:text-sm">🔐 Demo Akun:</p>
                 <div class="space-y-1.5 sm:space-y-2 text-xs sm:text-sm text-gray-700">
