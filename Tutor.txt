@@ -1,5 +1,5 @@
-git clone https://github.com/rrrendi/RastekInternship.git
-cd RastekInternship
+git clone https://github.com/rrrendi/Presensi-Peserta-Magang.git
+cd Presensi-Peserta-Magang
 composer install
 npm install
 copy .env.example .env
